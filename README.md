@@ -1,8 +1,4 @@
-### Hello! I'm Kauane Dalla Corte
 
-- 🔭 Scholarship in Development
-- 🌱 Undergraduate in Computer Engineering at Uniftec in Caxias do Sul
-- 📔 In constant learning
 
  <div>
   <a href="https://github.com/kaudc">
