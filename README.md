@@ -1,12 +1,4 @@
-
-
- <div>
-  <a href="https://github.com/kaudc">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaudc&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaudc&layout=compact&langs_count=7&theme=monokai"/>
-</div>
-  
-<div style="display: inline_block"><br>
+ <div style="display: inline_block"><br>
   <img align="center" alt="kau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="kau-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kau-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
